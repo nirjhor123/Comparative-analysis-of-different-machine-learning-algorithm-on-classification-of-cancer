@@ -23,4 +23,4 @@ Models Used:
 
 4.XGBOOST   Accuracy:98.24
 
-So,among the models Logistic Regression gives the best accuracy
+So,among the models Decission Tree gives the best accuracy
